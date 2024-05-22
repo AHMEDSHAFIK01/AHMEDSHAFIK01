@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AHMEDSHAFIK01
 - 👀 I’m interested in ...html css javascript 
-- 🌱 I’m currently learning ... php
+- 🌱 I’m currently learning ...react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... whatsapp = 00966547856085
 
